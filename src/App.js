@@ -4,7 +4,7 @@ import Todo from './Component/Todo';
 
 function App() {
   return (
-    <div className="App h-screen bg-slate-950">
+    <div className="App h-screen bg-gray-100 ">
       <Todo />
     </div>
   );
